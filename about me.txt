@@ -1,0 +1,5 @@
+Hello,my name is kartik.
+
+I am learning web development and GitHub. This is my first file uploaded using VS code and GitHub.
+
+Thank you!
