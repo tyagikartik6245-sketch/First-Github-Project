@@ -1,0 +1,7 @@
+=========================== GitHub Assignment Report ============================
+NAME : Kartik
+TOPIC : GitHub Basics 
+WORK DONE : i) Learned GitHub Basics
+            ii) Created a text file
+            iii)Upload file to GitHub
+CONCLUSION : This assignment helped me Understang GitHub             
